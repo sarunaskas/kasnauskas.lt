@@ -1,8 +1,8 @@
 body {
 	font-family: Ubuntu, Calibri, sans-serif;
 	font-size: 1em;
-	color: whitesmoke;
-	background-color: #151515;
+	color: black;
+	background-color: white;
 }
 header h1 {
 	font-size: 3.5em;
@@ -24,14 +24,14 @@ ul.postlist, ul.archivelist {
 	list-style: none;
 }
 h1 {
-	color: #A0DAA9;
+	color: #BAD8E0;
 }
 h1 a {
 	text-decoration: none;
-	color: #A0DAA9;
+	color: #BAD8E0;
 }
 a {
-	color: #A0DAA9;
+	color: #BAD8E0;
 }
 header #byline {
 	font-size: 0.8em;
