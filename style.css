@@ -51,6 +51,8 @@ header #byline {
 	height: 100%;
 }
 
-audio {
-	background-color: lightgray;
+div.song {
+	display: flex;
+    align-items: center;
+	justify-content:  space-between;
 }
