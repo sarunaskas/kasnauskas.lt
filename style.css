@@ -4,9 +4,7 @@ body {
 	color: black;
 	background-color: white;
 }
-header h1 {
-	font-size: 10vw;
-}
+
 #container {
 	width: 80%;
 	max-width: 1000px;
@@ -23,8 +21,12 @@ article p {
 ul.postlist, ul.archivelist {
 	list-style: none;
 }
-h1, h2, h3, h4, a {
+h1, h2, a {
 	color: #708a8c;
+}
+
+h3, h4 {
+	color: black;
 }
 h1 a {
 	text-decoration: none;
